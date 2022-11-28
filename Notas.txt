@@ -1,0 +1,7 @@
+Typescript data compiler
+    tsc -v : Versión
+    tsc init: Crea el tsconfig.json
+    tsc archivo.ts : Transpila el código ts a js
+    tsc -w : Se activa el modo observador
+
+Activamos el noImplicitAny para evitar trabar con variables tipo any;
